@@ -94,3 +94,32 @@ button a {
     font-weight: 700;
     font-size: 18px;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    color: #1F2937;
+    padding: 40px;
+}
+
+.information-body {
+    display: flex;
+    flex: none;
+    padding-bottom: 100px;
+    justify-content: center;
+    gap: 60px;
+}
+
+.info-text {
+    width: 200px;
+    text-align: center;
+}
+
+.information-body img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: 50px;
+    border-color: blue;
+}
